@@ -1,0 +1,270 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Amanda The Adventure Episode 1",
+        "image": "https://yeapk.com/wp-content/uploads/2022/05/Amanda-The-Adventure-Game.jpg"
+      },
+      {
+        "title": "Amanda The Adventure Episode 2",
+        "image": "https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/05/amanda-secret-tape.jpg"
+      },
+      {
+        "title": "Amanda The Adventure Episode 3 ",
+        "image": "https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/04/amanda-all-wrong-answers-ending-1024x594.jpg"
+      },
+      {
+        "title": "Amanda The Adventure Episode 4 ",
+        "image": "https://i.ytimg.com/vi/Pq9qcUvULCw/maxresdefault.jpg"
+      }
+      
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Amanda The Adventure Game 1",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://coimobile.com/uploads/2022/4/amanda-the-adventurer-apk-descargar.jpg",
+        "text": "If you don’t follow the instructions given by Amanda you will see her fury in the incoming commands from her. So, the best way for you is to act according to her command and you will get through itAmanda the Adventurer Secret Ending Once you complete the three episodes in the game, you will find out that there is something weird about everything that is going on. Though the developers have said they are looking into a sequel of the title, but that is still not enough for those who have had the experience. So, most of the gamers are asking if there is a secret ending to the overall adventure? Well, there are many theories and from the gameplay itself, it seems like there is an uncanny final order from the little adventurer who is without her companion ‘Wooly’ in the last setting. She asks you to knock at a door and is followed by a decree which says, “Let me in!”. Well, to unsettle you from your seat, she is at your door and asking you to open the door for her. Remember in the beginning where Wooly wanted to warn you but was suddenly interrupted?.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://inews.gtimg.com/newsapp_bt/0/14789306524/1000",
+        "text": "The player finds some dusty VHS tapes of her show in their house while cleaning and decides to watch them for nostalgic purposes, despite not remembering ever seeing the show on TV. The first episode starts with Amanda and Wooly going to the store to get apples that they need to make apple pie. Amanda disregards Wooly's concerns about his allergy to apples, saying he should try new things.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "https://play.google.com/store/apps/details?id=com.mommy.longlegscolor",
+        "image_link": "https://inews.gtimg.com/newsapp_bt/0/14789306525/1000",
+        "text": "In the second chapter, we followed Amanda and the lamb to the street to visit grandma, knowing that grandma doesn't eat meat, there is also a butcher's shop and an ice cream shop, bring some ice cream, but it's not that, the ice cream is gone, only meat shop, and then enter the butcher shop. At this time, the lamb is already very scared and seems to want to tell something~ Enter meat to end the second chapter..",
+        "isNative": "false"
+      },
+       {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "https://play.google.com/store/apps/details?id=com.mommy.longlegscolor",
+        "image_link": "https://i0.wp.com/lapress.org/wp-content/uploads/2022/04/Image-of-Amanda-the-Adventurer-Free.jpg",
+        "text": "This is a short horror game. Here you will watch and play along with a TV Show for old kids. This is about a little brave girl named Amanda and her only companion which is a sheep named Wooly. You find them on your attic in a box set of a TV Show from long ago. You cannot recall what particular show it is or who were the characters or even what exactly happens here. Despite all this strangeness, you have a familiar feeling and want to explore anyway. The title is created for DreadXP Found Footage Jam. A short horror story where you will be watching all the unfolding horror on a VHS tape. These VHS videotapes are found by you in your attic and it is time for you to explore them. As soon as you put them in the VCR player, you will find out that this is related to a kid’s TV show. The similarities of this show could be matched with the ’90s TV programs that were created for educational purposes.",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Amanda The Adventure Game 2",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://static.wixstatic.com/media/b06961_5bb77f7330cc43d4929e53bbe8e1c44e~mv2.gif",
+        "text": "The secret tape is left on the table after you have typed lamb thrice. As a result, episode 2 is ended and removed from the television. Written on the tape is the episode number which has been smudged. To watch the tape, you have to click on it. Then, you would see an odd image of a house, a forest and hanging meat. The first part you see on the tape is a picture of some houses whose owners are unknown. However, it resembles the houses in episode 3, at the scene where Amanda requested you to knock on the door, although, with no swing.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://i.ytimg.com/vi/mkrfmR85HvM/hqdefault.jpg",
+        "text": "You tell the player to tell the butcher what he needs. When the player replies meat (you'll force them if they don't), Amanda smiles sinisterly and says, That's right... before staring at Woolley menacingly as the butcher slowly slices off a piece of meat. Presumably as punishment for trying to warn the player, Amanda attacks him just as the episode ends.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "com.eyesthegame.eyes",
+        "image_link": "https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/05/Screenshot-519.png",
+        "text": "The second episode starts with Wooly frantically trying to warn the viewers about something, but Amanda appears and interrupts him, resuming the episode as normal. She tells the player that they need to go to the butcher shop to get meat for grandma, despite Wooly claiming that grandma is a vegetarian. Once in the shop, Amanda tells the player to tell the butcher what they need. When the player responds meat (she will force them to if they don't), Amanda smiles evilly saying, That's right... before staring threateningly at Wooly while the butcher slowly chops a chunk of meat. Presumably as punishment for trying to warn the player, Amanda attacks him just as the episode ends.",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Amanda The Adventure Game 3",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i0.wp.com/lapress.org/wp-content/uploads/2022/04/Image-of-Amanda-the-Adventurer-Game-APK.jpg",
+        "text": "The third episode opens with Amanda standing in a darkened, realistic setting, in contrast with the cartoonish background of the previous episodes.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://inews.gtimg.com/newsapp_bt/0/14789306648/1000",
+        "text": "Next to what appears to be a piece of Wooly's body, she tells the player that it's time to go home, pointing to a house that is revealed to be the player's house and demanding that they let her in.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "com.eyesthegame.eyes",
+        "image_link": "https://inews.gtimg.com/newsapp_bt/0/14789306737/1000",
+        "text": " After opening the door, Amanda will begin to violently contort her body before the player is attacked by her true form, implying she killed or abducted the viewer.",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Amanda The Adventure Game 4",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://i.ytimg.com/vi/Pq9qcUvULCw/maxresdefault.jpg",
+        "text": "You may not watch the last tape of horror, but you will miss a beautiful opportunity because Amanda and her friend Wooly will bear a monster that may terrify you, but a game that prevents this scene from its viewers for the sake of the horror they will live.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://i.ytimg.com/vi/QiSXC5XVVr0/maxresdefault.jpg",
+        "text": "A terrifying scene from inside the house, the viewer was playing, play with her.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "com.eyesthegame.eyes",
+        "image_link": "https://i.ytimg.com/vi/JvCsCIemM4A/maxresdefault.jpg",
+        "text": "Amanda will get mad each time you select a wrong answer. When you select a wrong answer, the thing that you’ve selected will disappear and you’ll be forced to select the right answer. If you’ve selected the wrong answer (the swing) in the final tape, the moon will disappear from the sky. Amanda’s eyes will turn white and she’ll shout at you to click the house. The all wrong answers ending is similar to the all right answers ending. A bunch of random on-screen text will appear. Right after that, Amanda will appear as a monster with wool-covered eyes, sharp teeth, and claws. Unfortunately, there is no secret ending in the game yet other than Amanda’s different emotions throughout the game.",
+        "isNative": "false"
+      }
+    ]
+    
+  }
+}
