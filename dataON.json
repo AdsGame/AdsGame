@@ -100,7 +100,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Apple (Apple) - character traits",
         "isNative": "false"
       },
       {
@@ -110,8 +110,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple.jpg",
+        "text": "Apple is the fourth playable character in the game. It has a pronounced red color and a heart (can be checked with a special heartbeat tester).Unlike the main character, the apple's blood is yellow and looks like apple juice.A distinctive feature is the first doll that has an exact representation of a fruit in the form of a leaf on its head.If you kill an apple, then the leaf disappears, and the color of the eyes becomes dimmer.",
         "isNative": "true"
       },
       {
