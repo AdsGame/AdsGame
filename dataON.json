@@ -28,8 +28,8 @@
         "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple.jpg"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+        "title": "People Playground Man",
+        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/humanppg.jpg"
       },
       {
         "title": "Dead Space Android",
@@ -147,7 +147,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "People Playground Man",
         "isNative": "false"
       },
       {
@@ -157,9 +157,9 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-        "isNative": "true"
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/humanppg.jpg",
+        "text": "This mod adds one of the creatures of the People Playground game to the game, namely a person. Pros:",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -168,20 +168,9 @@
         "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/humanppg_1.jpg",
+        "text": "The author did his best to transfer a person from the people playground to the melon playground. Your insides Your skeleton Cons: and minuses mark in the comments 😉 Author: Ywymem",
         "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
-        "isNative": "false"
       }
     ],
 	  "content4": [
