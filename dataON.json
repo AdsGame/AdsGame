@@ -24,8 +24,8 @@
         "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/melon_1.jpg"
       },
       {
-        "title": "Apple (Apple) - character traits",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple.jpg"
+        "title": "Complete freedom of action",
+        "image": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-1.jpg"
       },
       {
         "title": "People Playground Man",
@@ -111,7 +111,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple.jpg",
-        "text": "Apple is the fourth playable character in the game. It has a pronounced red color and a heart (can be checked with a special heartbeat tester).Unlike the main character, the apple's blood is yellow and looks like apple juice.A distinctive feature is the first doll that has an exact representation of a fruit in the form of a leaf on its head.If you kill an apple, then the leaf disappears, and the color of the eyes becomes dimmer.",
+        "text": "Graphics and soundThis rather simple 2D game project does not feature modern colorful graphics. There is no plot and the characters are primitively drawn. Visually, the project features PixelArt style, so it is not demanding on the device.Mod Features If you don’t want to watch annoying ads, then download Melon Playground mod, which remove all ads from the game and allows you to play without interruption. Mod Testing Gameplay, if you can call it that, is simply placing items on the playing field or map and learning how they interact. Ideally, here you can even create your own mini-movie, performing one action after another and putting them in a loop. The game engine is very flexible. It allows you to realize any fantasy. Initially, we need to choose a map. Many of them are suitable for your purpose at first. When you not just play, but set clear goals for yourself, choice of location can play an important role. First, it is necessary to study them carefully.",
         "isNative": "true"
       },
       {
@@ -121,8 +121,8 @@
         "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple_1.jpg",
-        "text": "Like other antagonists, the weak point is the head. When shot or hit by her, he dies.Peculiarities:Has yellow blood;Able to blink;The body is two colored;A little higher than Melon;There are many mods created in his image;In standard things there is an item of the same name (corn);If you set fire to corn, popcorn will come out of it.",
+        "image_link": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-2.jpg",
+        "text": "Shoot colorful videos of violence In the right corner of the Melon Playground screen are the camera and playback controls. You have to deal with them a little longer, but there is nothing complicated there either! We are sure that everything will work out for you. You will create your best mini-movie! If you are going to shoot a video here, you will discover the interaction with scripts. Before you start shooting, you have to define a behavior pattern for each character by pressing the pause button. If you did everything correctly, then the scripts will start working after pressing the Play button. You will be able to see the scene created by your own hands.",
         "isNative": "true"
       },
       {
@@ -132,7 +132,7 @@
         "left": "5",
         "text_size": "25",
         "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple_2.jpg",
+        "image_link": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-3.jpg",
         "text": "",
         "isNative": "false"
       }
@@ -157,7 +157,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/humanppg.jpg",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/unnamed.jpg",
         "text": "This mod adds one of the creatures of the People Playground game to the game, namely a person. Pros:",
         "isNative": "true"
       },
@@ -168,7 +168,7 @@
         "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/humanppg_1.jpg",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/unnamed%20(1).jpg",
         "text": "The author did his best to transfer a person from the people playground to the melon playground. Your insides Your skeleton Cons: and minuses mark in the comments 😉 Author: Ywymem",
         "isNative": "false"
       }
