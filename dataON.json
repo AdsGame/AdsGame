@@ -15,35 +15,52 @@
         "InterstitialFacebook": "587163948975162_812358543122367",
         "NativeFacebook": "587163948975162_812358716455683"
 
-      }
+     }
     ],
 
     "items": [
       {
-        "title": "Melon (Watermelon) – features",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/melon_1.jpg"
+        "title": "Melon Playground Mod 1",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png"
       },
       {
-        "title": "Complete freedom of action",
-        "image": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-1.jpg"
+        "title": "Melon Playground Mod 2",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/2.png"
       },
       {
-        "title": "Gyroscope, Wheel, Thruster and More! Melon Playground",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/maxresdefault.jpg"
+        "title": "Melon Playground Mod 3",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/3.png"
       },
       {
-        "title": "Night monster Nightmare",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/night.jpg"
+        "title": "Melon Playground Mod 4",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/4.png"
       },
       {
-        "title": "PM - Makarov Pistol",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/pm.jpg"
+        "title": "Melon Playground Mod 5",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/5.png"
       },
       {
-        "title": "Кв 1 & Various items",
-        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/predmety.jpg"
+        "title": "Melon Playground Mod 6",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/6.png"
+      },
+      {
+        "title": "Melon Playground Mod 7",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/7.png"
+      },
+      {
+        "title": "Melon Playground Mod 8",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/8.png"
+      },
+      {
+        "title": "Melon Playground Mod 9",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/9.png"
+      },
+      {
+        "title": "Melon Playground Mod 10",
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/10.png"
       }
     ],
+
     "content1": [
       {
         "ordered": "image_text",
@@ -51,10 +68,10 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Melon (Watermelon) – features",
-        "isNative": "false"
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png",
+        "text": "Download Mod",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -62,103 +79,44 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/melon_1.jpg",
-        "text": "Melon Playground is a sandbox-style android game that was made to replace the PC version of People Playground, although it is not the same developer. Many players have been waiting for such a game on the phone for a long time, and at the end of 2021, Melon was released for Android.Unlike the full-fledged computer version, there is a slightly limited functionality, but there are mods that you can download from us and improve your gameplay by creating exciting videos for tik tok or YouTube.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/melon.jpg",
-        "text": "Melon Playground mods are added almost every day, each of the modifications is a separate work of some player. They may belong to a specific category, such as weapons, cars or tanks, or be related to a movie, game, or cartoon character. Here you can download Melon mods via a direct link. Each modification has a description, screenshots, version and download link. In separate files there are packs that need to be unpacked and thrown into the mods folder.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/melon_2.jpg",
-        "text": "Thanks to a variety of items and clothes, Watermelon is able to transform into different characters, and using additional mods and saves, it turns out to be a cool game.Peculiarities:Has red bloodWhen he dies, his eyes grow dim;The first living fruit in the game;More than 90% of players use this character as the main one;If the head is damaged, it dies.",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
         "isNative": "false"
-     }
-    ],
-    "content2": [
-	
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Apple (Apple) - character traits",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/apple.jpg",
-        "text": "Graphics and soundThis rather simple 2D game project does not feature modern colorful graphics. There is no plot and the characters are primitively drawn. Visually, the project features PixelArt style, so it is not demanding on the device.Mod Features If you don’t want to watch annoying ads, then download Melon Playground mod, which remove all ads from the game and allows you to play without interruption. Mod Testing Gameplay, if you can call it that, is simply placing items on the playing field or map and learning how they interact. Ideally, here you can even create your own mini-movie, performing one action after another and putting them in a loop. The game engine is very flexible. It allows you to realize any fantasy. Initially, we need to choose a map. Many of them are suitable for your purpose at first. When you not just play, but set clear goals for yourself, choice of location can play an important role. First, it is necessary to study them carefully.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-2.jpg",
-        "text": "Shoot colorful videos of violence In the right corner of the Melon Playground screen are the camera and playback controls. You have to deal with them a little longer, but there is nothing complicated there either! We are sure that everything will work out for you. You will create your best mini-movie! If you are going to shoot a video here, you will discover the interaction with scripts. Before you start shooting, you have to define a behavior pattern for each character by pressing the pause button. If you did everything correctly, then the scripts will start working after pressing the Play button. You will be able to see the scene created by your own hands.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://technifiser.com/wp-content/uploads/2022/04/Melon-Playground-Screenshot-3.jpg",
-        "text": "",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
         "isNative": "false"
       }
     ],
-	  "content3": [
-	
+     "content2": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "People Playground Man",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/unnamed.jpg",
-        "text": "This mod adds one of the creatures of the People Playground game to the game, namely a person. Pros:",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/2.png",
+        "text": "Download Mod",
         "isNative": "true"
       },
       {
@@ -166,25 +124,46 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/unnamed%20(1).jpg",
-        "text": "The author did his best to transfer a person from the people playground to the melon playground. Your insides Your skeleton Cons: and minuses mark in the comments 😉 Author: Ywymem",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
         "isNative": "false"
       }
     ],
-	  "content4": [
-	
+    "content3": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Night monster Nightmare",
-        "isNative": "false"
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/3.png",
+        "text": "Download Mod",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -192,34 +171,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/night.jpg",
-        "text": "Peculiarities: Changed blood color Changed skeleton Changed a little flesh Can be killed Can be set on fire Nightmare is in the Living tab Author — @D3STROY3Rx t.me/fanmelonplayground",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/night_1.jpg",
-        "text": "— @D3STROY3Rx t.me/fanmelonplayground",
-        "isNative": "true"
-      }
-    ],
-"content5": [
-	
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "PM - Makarov Pistol",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
         "isNative": "false"
       },
       {
@@ -227,47 +181,35 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/pm.jpg",
-        "text": "Suitable for police or gang props in your scenarios. Peculiarities: Doesn't shoot Can be taken in hand There is a Glow texture. Posted by @Trixysx.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/at4.jpg",
-        "text": "ATGM is suitable for military scenarios. There are two AT4s in the archive, one with a belt and the other without. Peculiarities: Can be taken in hand There is a Glow texture Posted by @Trixysx.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/pool%20(1).jpg",
-        "text": "Great for a water card. It's better to enable Disable Collision. The author of the mod is KaKtuS.",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
         "isNative": "false"
       }
     ],
-"content6": [
-	
+    "content4": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Кв 1",
-        "isNative": "false"
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/4.png",
+        "text": "Download Mod",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -275,9 +217,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/kv1.jpg",
-        "text": "Saved in the form of a KV-1 tank. Peculiarities: Rides and shoots, from the minuses: the tracks do not work; Of the benefits: breaks, explodes when damaged in the tower, front and rear; Can plant up to 2 npc The author is @xxpashik (cart).",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
         "isNative": "false"
       },
       {
@@ -286,9 +228,33 @@
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/predmety.jpg",
-        "text": "In the pack you will find many interesting items and household appliances. Suitable for many scenario themes in the game. In the package: blender suitcase TV money cooker bag (blue) old phone (two parts) urn refrigerator cardboard laptop chair game machine TV remote control old TV microwave toilet frying pan + cover video camera Generator computer (monitor, keyboard) cooler video player + cassette",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/5.png",
+        "text": "Download Mod",
         "isNative": "true"
       },
       {
@@ -296,12 +262,265 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/predmety_1.jpg",
-        "text": "",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/6.png",
+        "text": "Download Mod",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/7.png",
+        "text": "Download Mod",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/8.png",
+        "text": "Download Mod",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/9.png",
+        "text": "Download Mod",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/10.png",
+        "text": "Download Mod",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/9beeh3j7wfi1q40/Geometry_dash_cube.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/9/f/cube-from-geometry-dash-photo-big.webp",
+        "text": "Cube from Geometry Dash for Melon Playground Cube from Geometry Dash. -blinking -alive -easy to kill -stubborn -leaves blood",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
+        "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/iyzjklmno1ysf4z/Ktm.zip/file",
+        "image_link": "https://top-mods.com/upload/000/u1/3/4/sports-cross-motorcycle-photo-big.webp",
+        "text": "Sports Cross Motorcycle for Melon Playground ",
+        "isNative": "false"
       }
     ]
+    
   }
 }
