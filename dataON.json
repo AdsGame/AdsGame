@@ -122,6 +122,10 @@
       {
        "title": "Melon Playground Mod 26",
         "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/26.png"
+        },
+      {
+       "title": "Melon Playground Mod 26",
+        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/27.png"
       }
     ],
 
@@ -1461,6 +1465,52 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/kwladjsmjinlolm/Goku+Ultra+Instinct.zip/file",
         "image_link": "https://i3.ytimg.com/vi/ZgmRKI84KSk/hqdefault.jpg",
         "text": "Goku Ultra Instinct Mod | Melon Playground Mod Created By Me | download link",
+        "isNative": "false"
+        }
+    ],
+    "content27": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/27.png",
+        "text": "Download Mod",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/5lp5jjojos73a51/Kaido_Hybrid_Mid_Det.zip/file",
+        "image_link": "https://i3.ytimg.com/vi/btucBWhVg34/hqdefault.jpg",
+        "text": "Mid-detailed Hybrid KAIDO | Melon Playground Mod Created By Me | Download Link",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/6ovxip6ht1hyph3/QUAKE+++YAMI+SKILL+SET.zip/file",
+        "image_link": "https://i3.ytimg.com/vi/33wOkEoKcqM/maxresdefault.jpg",
+        "text": "Yami + Gura | One piece Skill Set | Melon Playground Mod Created By Me | Download Link",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/d92lexsu9i0ftyx/Detailed+AKAINU++Magu+skill.zip/file",
+        "image_link": "https://i3.ytimg.com/vi/O9g29jXvVDc/maxresdefault.jpg",
+        "text": "DETAILED AKAINU + MAGMA SKILLS | Melon Playground mod by me | DOWNLOAD LINK",
         "isNative": "false"
       }
     ]
