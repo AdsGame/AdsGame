@@ -21,7 +21,7 @@
     "items": [
       {
         "title": "Melon Playground Mod 1",
-        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png"
+        "image": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/tar.png"
       },
       {
         "title": "Melon Playground Mod 2",
@@ -137,7 +137,7 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/tar.png",
         "text": "Download Mod",
         "isNative": "false"
       },
@@ -161,7 +161,7 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/91s2x1wzj86xlj9/Book1.zip/file",
         "image_link": "https://top-mods.com/upload/000/u1/a/e/piggy-book-1-photo-big.webp",
         "text": "Piggy Book 1 for Melon Playground There were added: 38 characters House: •Penny •Georgie Station: •Mother Gallery: •Father Forest: •Doggy •Sheepy •Angel •Mr. Stitchy •Kitty •Sheepy School: •Pandy •Bunny • Teacher Hospital: •Beary •Skelly Metro: •Zompiggy •Tigry Carnival: •Clowny •Foxy •Pony •Dinopiggy City: •Grandmother •Elly •Zizzy •Giraffy •Devil Mall: •Robby •Mimi •Poley Outpost: •Soldier •Torcher Plant: •Mr. P •Badgy •Billy •Mousy",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -242,7 +242,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/3.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -380,7 +380,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/6.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -518,7 +518,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/9.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -656,7 +656,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/12.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -794,7 +794,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/15.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -932,7 +932,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/18.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -1024,7 +1024,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/20.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -1138,7 +1138,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/22.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -1318,7 +1318,7 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://modsfire.com/9yeyB7jBBZG9515",
         "image_link": "https://top-mods.com/upload/000/u1/9/7/urban-melon-photo-big.webp",
         "text": "NPC - Urban Melon Notes:• Aesthetic• It is possible to pierce clothes (only with some weapons) • There is a phone (mod)",
-        "isNative": "true"
+        "isNative": "false"
         },
       {
         "ordered": "image_text",
@@ -1364,7 +1364,7 @@
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/25.png",
         "text": "Download Mod",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -1454,7 +1454,7 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/768qwu7sz98duyb/Classic+Wolverine.zip/file",
         "image_link": "https://i3.ytimg.com/vi/pnLWfQ5W3AY/hqdefault.jpg",
         "text": "Detailed Classic Wolverine | Melon Playground Mod Created By Me | Download Link",
-        "isNative": "true"
+        "isNative": "false"
         },
       {
         "ordered": "image_text",
@@ -1500,7 +1500,7 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/6ovxip6ht1hyph3/QUAKE+++YAMI+SKILL+SET.zip/file",
         "image_link": "https://i3.ytimg.com/vi/33wOkEoKcqM/maxresdefault.jpg",
         "text": "Yami + Gura | One piece Skill Set | Melon Playground Mod Created By Me | Download Link",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -1511,6 +1511,17 @@
         "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/d92lexsu9i0ftyx/Detailed+AKAINU++Magu+skill.zip/file",
         "image_link": "https://i3.ytimg.com/vi/O9g29jXvVDc/maxresdefault.jpg",
         "text": "DETAILED AKAINU + MAGMA SKILLS | Melon Playground mod by me | DOWNLOAD LINK",
+        "isNative": "false"
+        },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://www.mediafire.com/file/8q93i1d1z690433/Kizaru+skills+Oack.zip",
+        "image_link": "https://i3.ytimg.com/vi/3172z6l4TEc/hqdefault.jpg",
+        "text": "DETAILED kizaru + 4 Skills with Logia effect | Melon Playground Mod Created By Me Download Link",
         "isNative": "false"
       }
     ]
